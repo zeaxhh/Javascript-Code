@@ -23,6 +23,8 @@ const mathLibrary = {
       } while (i < num)
       return factorial;
   },
+  squareRoot(a){
+  },
 };
 
 console.log(mathLibrary.factorial(10));
